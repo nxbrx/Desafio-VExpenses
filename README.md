@@ -138,6 +138,11 @@ O código em Terraform cria uma arquitetura de rede na AWS e uma instância EC2 
 
 ---
 
+## Arquivo Modificado
+Veja o arquivo [main.tf](https://github.com/nxbrx/Desafio-VExpenses/blob/main/main.tf) modificado
+
+---
+
 ## Modificações Implementadas
 
 1. **Variável "candidato"**: Atualizada para o nome `vinicius-nobre`.
